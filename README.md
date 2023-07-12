@@ -24,3 +24,6 @@ Another interesting insight is that most people that leave our company are peopl
 
 Further analysis will take place in a future dashboard!
 
+# Note
+
+Due to Tableau Public's limitations in capturing particular formatting (e.g. background image) with my current Tableau license, a photo of the created dashboard is provided!
