@@ -19,11 +19,10 @@ In order to be able to easily visualize the relevant KPIs, we utilize Tableau an
 
 Many relevant metrics could also be tracked on this dashboard. From our dashboard we immediately notice that people working in the R&D Department have the highest percentage of attrition, an insight that requires further investigation. Turning our attention to employee satisfaction rates, we notice that people with titles "Research Scientist", "Research Director" and "Laboratory Technician" are among those that most oftenly rate with the lowest possible score their satisfasction from their employment.
 
-Another interesting insight is that most people that leave our company are peopl with age between 25 and 34, most of which are Males. This could be associated possibly with lack of career development opportunities, as this is usually the age that most people step into senior or managerial roles.
+Another interesting insight is that most people that leave our company are people with age between 25 and 34, most of which are Males. This could be associated possibly with lack of career development opportunities, as this is usually the age that most people step into senior or managerial roles. In fact, if we investigate just the male audience of people who left the company, we notice that the majority of them had the role "Research Scientist" or "Laboratory Technician", instead of "Research Director" or "Manager". 
 
-
-Further analysis will take place in a future dashboard!
+Further analysis will be performed and uploaded soon as part of a 2nd dashboard!
 
 # Note
 
-Due to Tableau Public's limitations in capturing particular formatting (e.g. background image) with my current Tableau license, a photo of the created dashboard is provided!
+Due to Tableau Public's limitations in capturing particular formatting (e.g. background image) with my current Tableau license, a photo of the created dashboard is provided -->  "HR Analytics Dashboard.png"!
