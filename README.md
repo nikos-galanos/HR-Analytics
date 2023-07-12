@@ -21,6 +21,9 @@ Many relevant metrics could also be tracked on this dashboard. From our dashboar
 
 Another interesting insight is that most people that leave our company are people with age between 25 and 34, most of which are Males. This could be associated possibly with lack of career development opportunities, as this is usually the age that most people step into senior or managerial roles. In fact, if we investigate just the male audience of people who left the company, we notice that the majority of them had the role "Research Scientist" or "Laboratory Technician", instead of "Research Director" or "Manager". 
 
+<img width="1213" alt="Screen Shot 2023-07-11 at 11 36 03 PM" src="https://github.com/nikos-galanos/HR-Analytics/assets/111541718/06193ccf-7f03-4cc9-8cf9-776d0370b8f6">
+
+
 Further analysis will be performed and uploaded soon as part of a 2nd dashboard!
 
 # Note
