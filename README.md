@@ -1,5 +1,5 @@
 # HR-Analytics
-Data Exploration / Visualization Project using Tableau for visualization.
+Data Exploration / Visualization Project using Tableau.
 
 ## Introduction
 
